@@ -1,0 +1,6 @@
+{
+  "name": "MedSUS User Profile",
+  "description": "A React application to manage user profile information for MedSUS, including personal data, medical history, and preferences. Users can view and edit their information across different sections.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
